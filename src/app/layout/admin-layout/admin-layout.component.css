@@ -41,6 +41,21 @@ File: scss
   color: #656363;
 }
 
+form.app-search {
+  position: relative;
+  top: 12px;
+}
+
+.footer {
+  color: #58666e;
+  padding: 20px 30px;
+  font-weight: 300;
+  background: #fff;
+}
+.text-center {
+  text-align: center!important;
+}
+
 /* end */
 .search-box .app-search .form-control {
   border-radius: 0px; }

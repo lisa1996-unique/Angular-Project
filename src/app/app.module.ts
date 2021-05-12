@@ -7,7 +7,6 @@ import { LoginPageComponent } from './pages/login-page/login-page.component';
 import { SignupPageComponent } from './pages/signup-page/signup-page.component';
 import { DashboardPageComponent } from './pages/dashboard-page/dashboard-page.component';
 import { SidebarComponent } from './pages/sidebar/sidebar.component';
-import { NavbarComponent } from './pages/navbar/navbar.component';
 import { UserLayoutComponent } from './layout/user-layout/user-layout.component';
 import { AdminLayoutComponent } from './layout/admin-layout/admin-layout.component';
 import { HomeAdminComponent } from './pages/home-admin/home-admin.component';
@@ -23,7 +22,6 @@ import { UsersComponent } from './pages/users/users.component';
     SignupPageComponent,
     DashboardPageComponent,
     SidebarComponent,
-    NavbarComponent,
     UserLayoutComponent,
     AdminLayoutComponent,
     HomeAdminComponent,
